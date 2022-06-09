@@ -14,7 +14,7 @@
 The following image demonstrates the web application's appearance and functionality:
 [Horiseon Social Services](./assets/main.png)
 
-[Deployed GitPage] (http://megharpx.github.io/horiseon/)
+[Deployed GitPage] (https://megharpx.github.io/Horiseon/index.html)
 
 
 
